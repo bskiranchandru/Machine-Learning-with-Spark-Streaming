@@ -3,4 +3,4 @@
 #In this we can get the how applications in real world modify their algorithms to work on large data can be process and analyze the stream over time.
 #In this we need to analyze large data stream and process that using machine learning algorithms using spark streaming and spark libraries to build and deploy the model
 #Tools  :- python3.8 ,Hadoop3.2.2 spark3.1.2
- Now streamed the the data set using the stream.py file
+ streamed the the data set using the stream.py file
